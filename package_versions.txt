@@ -38,7 +38,7 @@ libcom_err              1.47.1-r1         apk
 libcrypto3              3.3.7-r2          apk     
 libcurl                 8.14.1-r3         apk     
 libexpat                2.10.0-r0         apk     
-libffi                  3.4.7-r0          apk     
+libffi                  3.8.1-r0          apk     
 libgcc                  14.2.0-r4         apk     
 libgcrypt               1.10.3-r1         apk     
 libgpg-error            1.51-r0           apk     
